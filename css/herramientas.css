@@ -1,0 +1,63 @@
+/*SELECTOR*/
+*{
+    font-family: 'Courier New', Courier, monospace;
+     margin: 0;
+     padding: 0;
+ }
+ 
+ header {
+     width: 1000px;
+     margin: auto;
+ }
+ 
+ section{
+     width: 1000px;
+     margin: auto;
+ }
+ .Titulo{
+     color: black;
+     font-size: 50px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+ }
+ 
+ .parrafo{
+     text-align: justify;
+     font-family: inherit;
+ }
+ 
+ .fila_1{
+     text-align: center;
+     background-color: rgb(226, 43, 180);
+     color:aliceblue;
+     padding: 15px 0px 0px 0px;
+     font-size: 20px;
+ }
+ 
+ .Subtitulo_1{
+     font-size: 20px;
+     color: rgb(211, 71, 113);
+     font-family:Arial, Helvetica, sans-serif;
+ }
+ 
+ .Subtitulo_2{
+     font-size: 20px;
+     color: rgb(211, 71, 113);
+     font-family:Arial, Helvetica, sans-serif;
+ }
+ 
+ .Subtitulo_3{
+     font-size: 20px;
+     color: rgb(211, 71, 113);
+     font-family:Arial, Helvetica, sans-serif;
+ }
+ 
+ .Subtitulo_4{
+     font-size: 20px;
+     color: rgb(211, 71, 113);
+     font-family:Arial, Helvetica, sans-serif;
+ }
+ 
+ .tabla{
+     margin: 15px 0px 15px 0px;
+ }
